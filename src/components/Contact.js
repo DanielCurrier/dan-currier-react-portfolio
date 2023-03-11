@@ -49,11 +49,11 @@ export default function Contact() {
                         </div>
                         <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs"> GITHUB</h2>
-                            <a className=" leading-relaxed" href="https://github.com/LordDanklin">LordDanklin</a>
+                            <a className=" text-green-400 leading-relaxed" href="https://github.com/LordDanklin">LordDanklin</a>
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                                 EMAIL
                             </h2>
-                            <a className="text-indigo-400 leading-relaxed">dcurrier585@gmail.com</a>
+                            <a className="text-green-400 leading-relaxed">dcurrier585@gmail.com</a>
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs">CALL ME</h2>
                             <p className=" leading-relaxed">201-478-2196</p>
                         </div>
@@ -71,7 +71,7 @@ export default function Contact() {
                             type="text"
                             id="name"
                             name="name"
-                            className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900  text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+                            className="w-full bg-gray-800 rounded border border-gray-700 focus:border-green-500 focus:ring-2 focus:ring-green-900  text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                             onChange={(e) => setName(e.target.value)} />
                     </div>
                     <div className="relative mb-4">
@@ -80,7 +80,7 @@ export default function Contact() {
                             type="text"
                             id="email"
                             name="email"
-                            className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+                            className="w-full bg-gray-800 rounded border border-gray-700 focus:border-green-500 focus:ring-2 focus:ring-green-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                             onChange={(e) => setEmail(e.target.value)} />
                     </div>
                     <div className="relative mb-4">
@@ -89,10 +89,10 @@ export default function Contact() {
                             type="text"
                             id="message"
                             name="message"
-                            className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 h-32 text-base outline-none text-gray-100 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
+                            className="w-full bg-gray-800 rounded border border-gray-700 focus:border-green-500 focus:ring-2 focus:ring-green-900 h-32 text-base outline-none text-gray-100 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
                             onChange={(e) => setMessage(e.target.value)} />
                     </div>
-                    <button type="submit" className="text-white bg-indigo-500 oborder-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Submit</button>
+                    <button type="submit" className="text-white bg-green-500 oborder-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">Submit</button>
                 </form>
             </div>
         </section>

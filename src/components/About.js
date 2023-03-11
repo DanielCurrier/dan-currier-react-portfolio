@@ -12,11 +12,12 @@ export default function About() {
                     </h1>
                     <p className="mb-8 leading-relaxed">
                         Hi there, My name is Daniel Currier, and welcome to the rebuild of my portfolio website! As a fledgling
-                        full-stack student, my goal is to use this website as a testing ground and library for all sorts of computer science projects. A
-                        little more about me: I am an Eagle Scout and recent graduate from Ramapo College of New Jersey with a degree
+                        full-stack student, my goal is to use this website as a testing ground and library for all sorts of computer science projects.
+                        <br></br>A
+                        little more about me: I am an Eagle Scout and a 2019 International Distinguished Chapter Member of Phi Theta Kappa Honors Society. I have recently graduated cum laude from Ramapo College of New Jersey with a degree
                         in Communications-Writing. After trying my hand in the business, I decided that it was not for me, and began
                         my journey in computer programming. My ultimate goal is to become a game designer, and be the
-                        most capable person for the job! Hobbies include PC gaming, tabletop gaming, hiking, bouldering,literature, martial arts
+                        most capable person for the job! Hobbies include PC gaming, tabletop gaming, hiking, bouldering, literature, martial arts
                         and medieval swordsmanship.
                     </p>
                     <div className="flex justify-center">
