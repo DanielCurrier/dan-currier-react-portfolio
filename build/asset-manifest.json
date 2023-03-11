@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dan-currier-react-portfolio/static/css/main.258246e7.css",
+    "main.js": "/dan-currier-react-portfolio/static/js/main.d05f0a4b.js",
+    "static/js/787.ba64d613.chunk.js": "/dan-currier-react-portfolio/static/js/787.ba64d613.chunk.js",
+    "static/media/JATE.gif": "/dan-currier-react-portfolio/static/media/JATE.e503cf987019f303729f.gif",
+    "static/media/snake-game.gif": "/dan-currier-react-portfolio/static/media/snake-game.20f31b8d1ca7216e0212.gif",
+    "static/media/Note Taker.gif": "/dan-currier-react-portfolio/static/media/Note Taker.4c865d003210ce5a004e.gif",
+    "static/media/phantom-plates.png": "/dan-currier-react-portfolio/static/media/phantom-plates.912e9c428564388d7568.png",
+    "static/media/profile.jpg": "/dan-currier-react-portfolio/static/media/profile.adf7774b9c6867643b88.jpg",
+    "index.html": "/dan-currier-react-portfolio/index.html",
+    "main.258246e7.css.map": "/dan-currier-react-portfolio/static/css/main.258246e7.css.map",
+    "main.d05f0a4b.js.map": "/dan-currier-react-portfolio/static/js/main.d05f0a4b.js.map",
+    "787.ba64d613.chunk.js.map": "/dan-currier-react-portfolio/static/js/787.ba64d613.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.258246e7.css",
+    "static/js/main.d05f0a4b.js"
+  ]
+}
