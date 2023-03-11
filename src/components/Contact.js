@@ -20,7 +20,7 @@ export default function Contact() {
             headers: { "Content-Type": "application/x-www-form-urlencoded" },
             body: encode({ "form-name": "contact", name, email, message }),
         })
-            .then(() => alert("message sent!"))
+            .then(() => alert("Message sent!"))
             .catch((err) => alert(err));
 
     }
@@ -53,7 +53,7 @@ export default function Contact() {
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                                 EMAIL
                             </h2>
-                            <a className="text-green-400 leading-relaxed">dcurrier585@gmail.com</a>
+                            <p className="text-green-400 leading-relaxed">dcurrier585@gmail.com</p>
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs">CALL ME</h2>
                             <p className=" leading-relaxed">201-478-2196</p>
                         </div>
