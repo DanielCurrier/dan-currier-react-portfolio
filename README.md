@@ -8,11 +8,13 @@
 *[Contact](#contact)
 
 # Description
+![image](https://user-images.githubusercontent.com/112973907/224563645-41f46a6b-30b3-4a05-83e1-226b7ac21fbe.png)
+
 This project is a complete overhaul of my prior portfolio, which at the time was made exclusively in HTML/CSS. This new and improved version is made entirely in the React framework, with additional help from technologies such as TailwindCSS and Netlify. Read more below for further details.
 ## Installation
 N/A
 ## Instructions
-To use this program , click on the following link:. This will redirect you to my portfolio page. On the top of a screen there is a navbar that will redirect you to various portions of the website, click on them to see where they take you. The Projects section hosts  some of my previous works, hover over them to get an additional description and title, click on them to be redirected to their deployed pages. At the bottom of the page you will find a contact section that will allow viewers to contact me via email, simply type in to the fields and then hit that submit button. Their information will be saved and sent to me! A Google map page has also been added to show potential employers where I am located, and additional links have been provided in an overlay there. 
+To use this program , click on the following link: https://lorddanklin.github.io/dan-currier-react-portfolio/. This will redirect you to my portfolio page. On the top of a screen there is a navbar that will redirect you to various portions of the website, click on them to see where they take you. The Projects section hosts  some of my previous works, hover over them to get an additional description and title, click on them to be redirected to their deployed pages. At the bottom of the page you will find a contact section that will allow viewers to contact me via email, simply type in to the fields and then hit that submit button. Their information will be saved and sent to me! A Google map page has also been added to show potential employers where I am located, and additional links have been provided in an overlay there. 
 ## Credits
 N/A
 ## License
