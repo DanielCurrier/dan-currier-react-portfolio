@@ -8,6 +8,8 @@
 *[Contact](#contact)
 
 # Description
+![image](https://user-images.githubusercontent.com/112973907/224563645-41f46a6b-30b3-4a05-83e1-226b7ac21fbe.png)
+
 This project is a complete overhaul of my prior portfolio, which at the time was made exclusively in HTML/CSS. This new and improved version is made entirely in the React framework, with additional help from technologies such as TailwindCSS and Netlify. Read more below for further details.
 ## Installation
 N/A
