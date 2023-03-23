@@ -30,7 +30,7 @@ export const projects = [
     {
         title: "Couchy",
         subtitle: "Final Bootcamp Project",
-        description: "A travel accomaodation website that provides listings from the unlikliest of places. Where's my couch?",
+        description: "A travel accomodation website that provides listings from the unlikliest of places. Where's my couch?",
         image: require("./images/couchy.png"),
         link: "https://the-real-couchy.herokuapp.com/",
     }
