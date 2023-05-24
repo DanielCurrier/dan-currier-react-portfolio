@@ -34,7 +34,7 @@ export default function Contact() {
             title="map"
             className="absolute inset-0  border-0 my-0"
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=Emerson,+NJ,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="https://www.google.com/maps/embed/v1/place?q=New+York+Metropolitan+Area,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
@@ -43,7 +43,7 @@ export default function Contact() {
               </h2>
               <p className="mt-1">
                 <br />
-                Emerson, NJ 07630
+                NYC Metropolitan Area. I am open to relocating!
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -63,10 +63,6 @@ export default function Contact() {
               <p className="text-green-400 leading-relaxed">
                 dcurrier585@gmail.com
               </p>
-              <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-                CALL ME
-              </h2>
-              <p className=" leading-relaxed">201-478-2196</p>
             </div>
           </div>
         </div>
