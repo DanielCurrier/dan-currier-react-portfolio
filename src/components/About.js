@@ -21,9 +21,10 @@ export default function About() {
             New Jersey with a degree in Communications-Writing. After trying my
             hand in the business, I decided that it was not for me, and began my
             journey in computer programming. My ultimate goal is to become a
-            game developer, and be the most capable person for the job! Hobbies
-            include PC gaming, tabletop gaming, hiking, bouldering, literature,
-            martial arts and medieval swordsmanship.
+            full stack developer with an emphasis in frontend technologies, and
+            be the most capable person for the job! Hobbies include PC gaming,
+            tabletop gaming, hiking, bouldering, literature, martial arts and
+            medieval swordsmanship.
           </p>
           <div className="flex justify-center">
             <a
