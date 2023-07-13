@@ -30,6 +30,7 @@ export const skills = [
   "Node.js",
   "MySQL",
   "React",
+  "Python",
   "Express.js",
   "MongoDB",
   "Progressive Web Applications",
